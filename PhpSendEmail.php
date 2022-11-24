@@ -2,6 +2,7 @@
 // Under security in your google account, create an app password
 // This will help you get a password to use to access your account in your php code
 // Download the phpmailer folder and include it in the same directory where your php file is
+// https://phpmailer.en.softonic.com/ - Link for downloading phpmailer
 <?php  
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
